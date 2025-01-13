@@ -17,6 +17,7 @@ This Password Manager application is designed to securely store and manage your 
   - HTML, CSS
 - **Backend**:
   - Node.js (with Express)
+  - Javascript
   - MySQL Database
   - CryptoJS (for password encryption)
 - **Encryption**: 
